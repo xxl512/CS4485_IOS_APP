@@ -6,6 +6,8 @@ After downloading the iOS App project zip file, the user goes to the folder whic
 This Repo is used for building the IOS APP 
 
  Purpose of this application:
+  1) Display the live data from m5Stack devices in line-charts.
+  2) Display collected data & analysis data in Quicksight Webview.
  
  
  
